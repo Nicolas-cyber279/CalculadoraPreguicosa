@@ -6,52 +6,54 @@
 Modelo de calculadora em C# e Windows forms com uma piada de "não fazer" divisões com muitas casas decimais. Mas deixar a resposta arredondada e a frase "e uns quebrados..." junto. Feita para estudar a criação de métodos em classes no C# e integração com o Windows forms.
 
 #Funcionalidades
-  ➕ Adição
+
+    ➕ Adição
   
-  ➖ Subtração
+    ➖ Subtração
   
-  ✖️ Multiplicação
+    ✖️ Multiplicação
   
-  ➗ Divisão
+    ➗ Divisão
   
-  🧹 Limpeza da expressão
+    🧹 Limpeza da expressão
   
-  ⚠️ Identificação de erros de sintaxe
+    ⚠️ Identificação de erros de sintaxe
   
-  🖥️ Interface gráfica desenvolvida com Windows Forms
+    🖥️ Interface gráfica desenvolvida com Windows Forms
   
 
 #Tecnologias utilizadas
 
-  C#
+    C#
   
-  .NET Framework 4.7.2
+    .NET Framework 4.7.2
   
-  Windows Forms
+    Windows Forms
   
-  Visual Studio
+    Visual Studio
   
 
 #Como executar
 
-  Pré-requisitos
+
+    Pré-requisitos
   
-    Para executar o projeto, é necessário possuir:
+      Para executar o projeto, é necessário possuir:
     
-      Windows
+        Windows
       
-      Visual Studio com suporte a desenvolvimento para desktop com .NET Framework
+        Visual Studio com suporte a desenvolvimento para desktop com .NET Framework 4.7.2
       
       
-  Execução
+    Execução
   
-    Clone este repositório.
+      Clone este repositório.
     
-    Abra o arquivo CalculadoraPreguiçosa.slnx no Visual Studio.
+      Abra o arquivo CalculadoraPreguiçosa.slnx no Visual Studio.
     
-    Compile o projeto.
+      Compile o projeto.
     
-    Execute a aplicação.
+      Execute a aplicação.
     
 
 #Demonstração
@@ -76,10 +78,10 @@ Modelo de calculadora em C# e Windows forms com uma piada de "não fazer" divis�
 
 # Status
 
-  🟢 Projeto concluído.
+    🟢 Projeto concluído.
 
 # Autor
 
-  Nicolas Da Silva Valadares
+    Nicolas Da Silva Valadares
 
   Projeto desenvolvido como parte da minha jornada de aprendizado em desenvolvimento de software.
